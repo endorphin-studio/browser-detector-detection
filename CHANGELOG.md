@@ -1,3 +1,3 @@
-### 1.0.0a
+### 1.0.0
     - init repository
-    - move data from [endorphin-studio/browser-detector](https://github.com/endorphin-studio/browser-detector) repository
+    - move code from [endorphin-studio/browser-detector](https://github.com/endorphin-studio/browser-detector) repository
