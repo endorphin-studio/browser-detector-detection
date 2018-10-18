@@ -1,0 +1,23 @@
+{
+  "name": "endorphin-studio/browser-detector-detection",
+  "description": "Detection for endorphin-studio/browser-detector",
+  "minimum-stability": "stable",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Serhii Nekhaienko",
+      "email": "sergey.nekhaenko@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "endorphin-studio/browser-detector-tools": ">=1.0.0",
+    "endorphin-studio/browser-detector-data": ">=1.0.0b"
+  },
+  "autoload": {
+    "psr-4": {
+      "EndorphinStudio\\Detector\\Detection\\":  "src"
+    }
+  }
+}
