@@ -1,8 +1,7 @@
 {
   "name": "endorphin-studio/browser-detector-detection",
-  "description": "Detection for endorphin-studio/browser-detector",
-  "minimum-stability": "stable",
   "type": "library",
+  "description": "Detection for endorphin-studio/browser-detector",
   "license": "MIT",
   "authors": [
     {
@@ -11,13 +10,22 @@
     }
   ],
   "require": {
-    "php": ">=7.0",
-    "endorphin-studio/browser-detector-tools": ">=1.0.0",
-    "endorphin-studio/browser-detector-data": ">=1.0.3"
+    "php": "^7.0.8",
+    "endorphin-studio/browser-detector-tools": "^1.0.0",
+    "endorphin-studio/browser-detector-data": "^1.1.0"
+  },
+  "config": {
+    "platform": {
+      "php": "7.0.8"
+    },
+    "preferred-install": "dist",
+    "sort-packages": true
   },
   "autoload": {
     "psr-4": {
       "EndorphinStudio\\Detector\\Detection\\":  "src"
     }
-  }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
 }
