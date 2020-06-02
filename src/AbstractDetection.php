@@ -47,7 +47,6 @@ abstract class AbstractDetection implements DetectionInterface
 
     /**
      * Result object initialisation
-     * @return null
      */
     protected function initResultObject()
     {
