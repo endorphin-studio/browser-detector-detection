@@ -30,5 +30,5 @@ interface DetectionInterface
      * @param array $additional
      * @return mixed
      */
-    public function detect(array $additional);
+    public function detect(array $additional = []);
 }
