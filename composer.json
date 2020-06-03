@@ -13,7 +13,7 @@
   "require": {
     "php": ">=7.0",
     "endorphin-studio/browser-detector-tools": "dev-develop",
-    "endorphin-studio/browser-detector-data": ">=1.0.3"
+    "endorphin-studio/browser-detector-data": "dev-master"
   },
   "autoload": {
     "psr-4": {
