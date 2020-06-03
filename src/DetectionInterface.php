@@ -1,10 +1,10 @@
 <?php
 /**
- * @author Serhii Nekhaienko <sergey.nekhaenko@gmail.com>
+ * @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
  * @license GPL
- * @copyright Serhii Nekhaienko &copy 2018
- * @version 4.0.0
- * @project endorphin-studio/browser-detector
+ * @copyright Serhii Nekhaienko &copy 2020
+ * @version 2.0.0
+ * @project endorphin-studio/browser-detector-detection
  */
 
 namespace EndorphinStudio\Detector\Detection;
