@@ -12,8 +12,8 @@
   ],
   "require": {
     "php": ">=7.0",
-    "endorphin-studio/browser-detector-tools": ">=1.0.0",
-    "endorphin-studio/browser-detector-data": ">=1.0.3"
+    "endorphin-studio/browser-detector-tools": "^1.2",
+    "endorphin-studio/browser-detector-data": "^1.2"
   },
   "autoload": {
     "psr-4": {
