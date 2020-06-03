@@ -7,8 +7,8 @@ Detection for [endorphin-studio/browser-detector](https://github.com/endorphin-s
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/endorphin-studio/browser-detector-detection/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/endorphin-studio/browser-detector-detection/?branch=master)
 
 ## About
-	Author: Serhii Nekhaienko <sergey.nekhaenko@gmail.com>
-	Current Version: 1.0.0
+	Author: Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+	Current Version: 2.0.0
 	License: MIT
 
 ## Requirements
